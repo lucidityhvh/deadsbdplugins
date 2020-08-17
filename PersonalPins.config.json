@@ -1,0 +1,36 @@
+{
+	"changelog": {
+		"currentversion": "1.9.5"
+	},
+	"choices": {
+		"defaultFilter": "channel",
+		"defaultSort": "notetime"
+	},
+	"notes": {
+		"583046219887280149": {
+			"583063064404819978": {
+				"659596863963398165_0": {
+					"addedat": 1577330563085,
+					"channel": "{\"id\":\"583063064404819978\",\"type\":0,\"name\":\"elders-chat\",\"topic\":\"\",\"position\":10,\"guild_id\":\"583046219887280149\",\"recipients\":[],\"rawRecipients\":[],\"permissionOverwrites\":{\"583049469290086400\":{\"allow\":66560,\"deny\":0,\"id\":\"583049469290086400\",\"type\":\"role\"},\"583053617682972673\":{\"allow\":68608,\"deny\":0,\"id\":\"583053617682972673\",\"type\":\"role\"},\"583046219887280149\":{\"allow\":0,\"deny\":1024,\"id\":\"583046219887280149\",\"type\":\"role\"},\"585545444994580510\":{\"allow\":0,\"deny\":2048,\"id\":\"585545444994580510\",\"type\":\"role\"},\"583053731885744151\":{\"allow\":68608,\"deny\":0,\"id\":\"583053731885744151\",\"type\":\"role\"}},\"bitrate\":64000,\"userLimit\":0,\"ownerId\":null,\"icon\":null,\"application_id\":null,\"nicks\":{},\"nsfw\":false,\"parent_id\":\"583112825409634344\",\"memberListId\":null,\"rateLimitPerUser\":0,\"originChannelId\":null,\"lastMessageId\":\"650332260976820237\",\"lastPinTimestamp\":null}",
+					"id": "659596863963398165",
+					"message": "{\"id\":\"659596863963398165\",\"type\":0,\"channel_id\":\"583063064404819978\",\"author\":{\"id\":\"289854486246195200\",\"username\":\"Dead\",\"usernameNormalized\":\"dead\",\"discriminator\":\"0004\",\"avatar\":\"a_7efc44b222b5909b2bfaa2b65f5addcb\",\"email\":\"aidan.schmidt16@gmail.com\",\"verified\":true,\"bot\":false,\"system\":false,\"mfaEnabled\":false,\"mobile\":true,\"premiumType\":2,\"flags\":160,\"premiumDiscriminator\":false,\"phone\":null},\"colorString\":\"#f1c40f\",\"nick\":\"paste\",\"content\":\"https://www.google.com/sorry/index?continue=https://www.youtube.com/watch%3Fv%3DwyneC9Q52XQ&q=EgSi8zrmGOnOkPAFIhkA8aeDS82LSZU9FMYJeLPLodi6TWXiwjCIMgFy\",\"attachments\":[],\"embeds\":[],\"mentions\":[],\"mentionRoles\":[],\"mentionChannels\":[],\"mentioned\":false,\"pinned\":false,\"mentionEveryone\":false,\"tts\":false,\"invites\":[],\"giftCodes\":[],\"timestamp\":\"2019-12-26T03:22:27.086Z\",\"editedTimestamp\":null,\"state\":\"SENT\",\"nonce\":\"659596864168919040\",\"blocked\":false,\"call\":null,\"bot\":false,\"webhookId\":null,\"reactions\":[],\"application\":null,\"activity\":null,\"messageReference\":null,\"flags\":0,\"isSearchHit\":false}",
+					"pos": 0,
+					"timestamp": 1577330547086
+				}
+			}
+		},
+		"@me": {
+			"585460267253497867": {
+				"591440643260153857_3": {
+					"addedat": 1561080885232,
+					"channel": "{\"id\":\"585460267253497867\",\"type\":1,\"name\":\"\",\"topic\":\"\",\"position\":0,\"guild_id\":null,\"recipients\":[\"267302201939066881\"],\"rawRecipients\":[{\"avatar\":\"09308cc0b25723fec75297f518cb2c56\",\"discriminator\":\"8080\",\"id\":\"267302201939066881\",\"username\":\"Philipp\"}],\"permissionOverwrites\":{},\"bitrate\":64000,\"userLimit\":0,\"ownerId\":null,\"icon\":null,\"application_id\":null,\"nicks\":{},\"nsfw\":false,\"parent_id\":null,\"memberListId\":null,\"rateLimitPerUser\":0,\"originChannelId\":null,\"lastMessageId\":\"657317204533968916\",\"lastPinTimestamp\":null}",
+					"id": "591440643260153857",
+					"message": "{\"id\":\"591440643260153857\",\"type\":0,\"content\":\"\",\"channel_id\":\"585460267253497867\",\"author\":{\"id\":\"267302201939066881\",\"username\":\"Philipp\",\"avatar\":\"09308cc0b25723fec75297f518cb2c56\",\"discriminator\":\"8080\"},\"attachments\":[{\"id\":\"591440643260153856\",\"filename\":\"IMG_20151227_132742.jpg\",\"size\":118868,\"url\":\"https://cdn.discordapp.com/attachments/585460267253497867/591440643260153856/IMG_20151227_132742.jpg\",\"proxy_url\":\"https://media.discordapp.net/attachments/585460267253497867/591440643260153856/IMG_20151227_132742.jpg\",\"width\":960,\"height\":720}],\"embeds\":[],\"mentions\":[],\"mention_roles\":[],\"pinned\":false,\"mention_everyone\":false,\"tts\":false,\"timestamp\":\"2019-06-21T01:33:57.789000+00:00\",\"edited_timestamp\":null,\"flags\":0}",
+					"pos": 3,
+					"timestamp": 1561080837789
+				}
+			},
+			"610267335059832835": {}
+		}
+	}
+}

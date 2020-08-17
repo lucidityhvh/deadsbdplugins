@@ -1,0 +1,78 @@
+{
+    "settings": {
+        "obfuscateCSSClasses": false,
+        "autoBackup": false,
+        "dontSaveData": false,
+        "displayUpdateNotes": false,
+        "ignoreMutedGuilds": true,
+        "ignoreMutedChannels": true,
+        "ignoreBots": true,
+        "ignoreSelf": true,
+        "ignoreBlockedUsers": true,
+        "ignoreNSFW": true,
+        "ignoreLocalEdits": true,
+        "ignoreLocalDeletes": true,
+        "alwaysLogGhostPings": false,
+        "showOpenLogsButton": true,
+        "messageCacheCap": 1500,
+        "savedMessagesCap": 1500,
+        "reverseOrder": false,
+        "onlyLogWhitelist": false,
+        "whitelist": [],
+        "blacklist": [],
+        "notificationBlacklist": [],
+        "toastToggles": {
+            "sent": false,
+            "edited": false,
+            "deleted": false,
+            "ghostPings": false
+        },
+        "toastTogglesDMs": {
+            "sent": false,
+            "edited": false,
+            "deleted": false,
+            "ghostPings": false,
+            "disableToastsForLocal": false
+        },
+        "useNotificationsInstead": false,
+        "blockSpamEdit": false,
+        "disableKeybind": false,
+        "cacheAllImages": true,
+        "dontDeleteCachedImages": false,
+        "aggresiveMessageCaching": true,
+        "openLogKeybind": [
+            162,
+            77
+        ],
+        "openLogFilteredKeybind": [
+            162,
+            78
+        ],
+        "renderCap": 50,
+        "maxShownEdits": 1,
+        "hideNewerEditsFirst": true,
+        "displayDates": true,
+        "deletedMessageColor": "",
+        "editedMessageColor": "",
+        "showEditedMessages": true,
+        "showDeletedMessages": true,
+        "showPurgedMessages": false,
+        "showDeletedCount": false,
+        "showEditedCount": false,
+        "alwaysLogSelected": true,
+        "alwaysLogDM": true,
+        "restoreDeletedMessages": false,
+        "contextmenuSubmenuName": "Message Logger",
+        "streamSafety": {
+            "showEdits": false,
+            "showDeletes": false,
+            "showButton": false,
+            "showNotifications": false,
+            "showContextMenu": false
+        },
+        "imageCacheDir": "C:\\Users\\aidan\\AppData\\Roaming\\BetterDiscord\\plugins/MLV2_IMAGE_CACHE",
+        "flags": 2,
+        "autoUpdate": true,
+        "versionInfo": "1.7.42"
+    }
+}

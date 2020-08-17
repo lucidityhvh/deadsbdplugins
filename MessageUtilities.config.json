@@ -1,0 +1,79 @@
+{
+	"bindings": {
+		"Copy_Link": {
+			"click": 0,
+			"keycombo": []
+		},
+		"Copy_Raw": {
+			"click": 0,
+			"keycombo": []
+		},
+		"Delete_Message": {
+			"click": 0,
+			"keycombo": [
+				16
+			]
+		},
+		"Edit_Message": {
+			"click": 1,
+			"keycombo": []
+		},
+		"Pin/Unpin_Message": {
+			"click": 0,
+			"keycombo": []
+		},
+		"Quote_Message": {
+			"click": 0,
+			"keycombo": []
+		},
+		"React_to_Message": {
+			"click": 0,
+			"keycombo": []
+		},
+		"__Note_Message": {
+			"click": 0,
+			"keycombo": [
+				16
+			]
+		},
+		"__Reveal_Spoilers": {
+			"click": 0,
+			"keycombo": [
+				17,
+				74
+			]
+		},
+		"__Translate_Message": {
+			"click": 0,
+			"keycombo": [
+				20
+			]
+		}
+	},
+	"changelog": {
+		"currentversion": "1.7.6"
+	},
+	"settings": {
+		"Copy_Link": false,
+		"Copy_Raw": false,
+		"Delete_Message": true,
+		"Edit_Message": true,
+		"Pin/Unpin_Message": false,
+		"Quote_Message": false,
+		"React_to_Message": false,
+		"__Note_Message": false,
+		"__Reveal_Spoilers": false,
+		"__Translate_Message": false,
+		"addHints": true,
+		"clearOnEscape": true
+	},
+	"toasts": {
+		"Copy_Link": false,
+		"Copy_Raw": false,
+		"Delete_Message": true,
+		"Edit_Message": false,
+		"Pin/Unpin_Message": false,
+		"Quote_Message": false,
+		"React_to_Message": false
+	}
+}

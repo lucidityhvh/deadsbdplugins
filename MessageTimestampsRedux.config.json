@@ -1,0 +1,11 @@
+{
+    "currentVersionInfo": {
+        "version": "1.0.13",
+        "hasShownChangelog": true
+    },
+    "settings": {
+        "tooltips": false,
+        "shortened": true,
+        "displayTime": 10000
+    }
+}

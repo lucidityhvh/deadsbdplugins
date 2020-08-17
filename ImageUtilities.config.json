@@ -1,0 +1,40 @@
+{
+	"amounts": {
+		"hoverDelay": 0
+	},
+	"changelog": {
+		"currentversion": "4.0.6"
+	},
+	"engines": {
+		"_all": true,
+		"Baidu": true,
+		"Bing": true,
+		"Google": true,
+		"IQDB": true,
+		"Reddit": true,
+		"SauceNAO": true,
+		"Sogou": true,
+		"TinEye": true,
+		"WhatAnime": true,
+		"Yandex": true
+	},
+	"inputs": {
+		"downloadLocation": ""
+	},
+	"settings": {
+		"addDetails": true,
+		"addEmojiEntry": true,
+		"addGuildIconEntry": true,
+		"addUserAvatarEntry": true,
+		"enableCopyImg": true,
+		"enableGallery": true,
+		"enableZoom": true,
+		"showAsHeaader": true,
+		"showOnHover": false,
+		"useChromium": false
+	},
+	"zoomSettings": {
+		"lensesize": 200,
+		"zoomlevel": 2
+	}
+}

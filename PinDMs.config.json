@@ -1,0 +1,12 @@
+{
+	"changelog": {
+		"currentversion": "1.7.4"
+	},
+	"settings": {
+		"showCategoryAmount": true,
+		"showCategoryUnread": true,
+		"showPinIcon": true,
+		"sortInRecentOrder": false,
+		"sortInRecentOrderGuild": false
+	}
+}
